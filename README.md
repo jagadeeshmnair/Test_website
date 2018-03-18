@@ -2,6 +2,6 @@
 
 This is a test website.
 
-##Edited from example branch.
-
 Update from update-Readme branch.
+
+Updated locally.
