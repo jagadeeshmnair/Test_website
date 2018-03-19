@@ -2,6 +2,4 @@
 
 This is a test website.
 
-Update from update-Readme branch.
-
-Updated locally, one last tweak.
+Changed made from GITHUB master before rebase.
