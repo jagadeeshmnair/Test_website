@@ -4,6 +4,6 @@ This is a test website.
 
 Changed made from GITHUB master before rebase.
 
-## REPOSITORY changes from local
+## REPOSITORY changes merged from local
 
-This change will create a conflict.
+This change will resolve conflict.
